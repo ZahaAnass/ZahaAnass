@@ -3,9 +3,9 @@
 
 ---
 
-### 🚀 Tech Stack:
+<h2 align="center">🚀 Tech Stack</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -23,22 +23,24 @@
 
 ---
 
-### 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahaAnass&show_icons=true&theme=radical" alt="ZahaAnass's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahaAnass&show_icons=true&theme=radical" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahaAnass&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahaAnass&theme=radical" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaAnass&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaAnass&layout=compact&theme=radical" />
 </p>
 
 ---
 
-📫 **Reach me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahaanass)
+<h2 align="center">📫 Reach Me</h2>
 
+<p align="center">
+  <a href="https://linkedin.com/in/zahaanass" target="_blank">
+    <img src="https://img.shields.io/badge/Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
