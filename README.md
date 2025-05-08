@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZahaAnass&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahaAnass&theme=radical" />
+  ![](https://nirzak-streak-stats.vercel.app/?user=ZahaAnass&theme=dark&hide_border=false)<br/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaAnass&layout=compact&theme=radical" />
@@ -44,3 +44,5 @@
     <img src="https://img.shields.io/badge/Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
