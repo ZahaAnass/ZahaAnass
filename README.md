@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZahaAnass&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  (https://nirzak-streak-stats.vercel.app/?user=ZahaAnass&theme=dark&hide_border=false)<br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZahaAnass&theme=dark&hide_border=false)](https://github.com/ZahaAnass)
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaAnass&layout=compact&theme=radical" />
