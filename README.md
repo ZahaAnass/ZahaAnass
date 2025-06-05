@@ -41,7 +41,7 @@
 <h2 align="center">📫 Reach Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zahaanass" target="_blank">
+  <a href="https://www.linkedin.com/in/zaha-anas-101796334/" target="_blank">
     <img src="https://img.shields.io/badge/Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
