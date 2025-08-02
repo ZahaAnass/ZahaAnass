@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZahaAnass&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ZahaAnass&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahaAnass&theme=dark&hide_border=false" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaAnass&layout=compact&theme=radical&langs_count=10" />
